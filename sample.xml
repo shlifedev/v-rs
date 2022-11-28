@@ -1,11 +1,9 @@
-.ctor{
-  1e868cbfe50 : .cctor ():System.void
-  1e868dbefa0 : .ctor ():System.void
-  unknown : null
-  unknown : null
-  unknown : null
-}
 
-.base{
-  frustumPlanes : .? () : EntityBase.Camera
-}
+<Structures>
+  <Structure Name="&lt;&gt;f__AnonymousType0&lt;&lt;Id&gt;j__TPar,&lt;Count&gt;j__TPar&gt;" AutoFill="0" AutoCreate="1" DefaultHex="0" AutoDestroy="0" DoNotSaveLocal="0" RLECompression="1" AutoCreateStructsize="4096">
+    <Elements>
+      <Element Offset="0" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000000" Description="&lt;Count&gt;i__Field" DisplayMethod="unsigned integer"/>
+      <Element Offset="0" Vartype="4 Bytes" Bytesize="4" OffsetHex="00000000" Description="&lt;Id&gt;i__Field" DisplayMethod="unsigned integer"/>
+    </Elements>
+  </Structure>
+</Structures>
