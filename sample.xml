@@ -1,0 +1,11 @@
+.ctor{
+  1e868cbfe50 : .cctor ():System.void
+  1e868dbefa0 : .ctor ():System.void
+  unknown : null
+  unknown : null
+  unknown : null
+}
+
+.base{
+  frustumPlanes : .? () : EntityBase.Camera
+}
